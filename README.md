@@ -1,4 +1,4 @@
-## Hi I'm Mia 👋
+## 👋 Hi, I'm Mia 
 
 <!--
 **himiaaaaa/himiaaaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my profile! I'm an IT student in Helsinki, Finland. I am current learning full-stack web development. Thanks for visiting and I'd love to [connect](www.linkedin.com/in/shuning-miao)!
+- 🔭 Welcome to my profile! 
+- 🌱 I'm an IT student in Helsinki, Finland. 
+- 👯 I am current learning full-stack web development. 
+- 📫 Thanks for visiting and I'd love to [connect](www.linkedin.com/in/shuning-miao)!
 
 ## &#x1f4c8; GitHub Stats
 
