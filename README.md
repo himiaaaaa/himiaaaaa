@@ -38,6 +38,5 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
-![himiaaaaa's Github Stats](https://github-readme-stats.vercel.app/api?username=himiaaaaa&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himiaaaaa&hide=TeX&layout=compact)
 
