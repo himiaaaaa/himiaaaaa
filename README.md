@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 - 🔭 Welcome to my profile! 
 - 🌱 I'm an IT student in Helsinki, Finland. 
-- 👯 I am current learning full-stack web development. 
+- 👯 I am current learning full-stack web development.
+- 💬 My portfolio: https://miao-zawf.onrender.com/
 - 📫 Thanks for visiting and feel free to contact me: himia301@gmail.com
+
 
 **Languages and Tools:** 
 
